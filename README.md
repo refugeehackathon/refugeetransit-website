@@ -1,4 +1,4 @@
 # refugeetransit-website
 
 ## Communication
-The team communicates currently via Slack [#de-refugee](http://de-refugees-slackin.herokuapp.com/) and Email. 
+The team communicates currently via the Slack channel `#migrationguide` under the domain [de-refugees-slackin](http://de-refugees-slackin.herokuapp.com/) and email.
